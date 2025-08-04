@@ -1,5 +1,0 @@
-opencv-python
-mediapipe      # API sans use_tflite
-numpy
-
-
